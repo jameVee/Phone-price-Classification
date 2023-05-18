@@ -5,7 +5,7 @@
 - เพื่อเรียนรู้การสร้างโมเดลจัดราคาประเภทโทรศัพท์
 - ทำนายราคาโทรศัพท์ ช่วงราคาที่ระบุว่าราคาสูงเพียงใด
 
-Dataset : Mobile Price Classification
+Dataset : Mobile Price Classification (https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
 
 Price Range : 
 - 0 (low cost)
