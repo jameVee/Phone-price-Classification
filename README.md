@@ -7,6 +7,8 @@
 
 Dataset : [Mobile Price Classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
 
+Tools : Python , Apache Spark
+
 Price Range : 
 - 0 (low cost)
 - 1 (medium cost)
